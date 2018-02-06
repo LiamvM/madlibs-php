@@ -1,0 +1,90 @@
+
+
+form {
+	height: 400px;
+	width: 600px;
+	background-color: white;
+	margin: 0 auto;
+}
+
+body {
+	background-color: #363531;
+}
+
+body nav {
+	height: 40px;
+	width: 600px;
+	background-color: #AB2513;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+
+nav li {
+	color: black;
+	font-family: arial;
+	display: inline-block;
+	margin-top: 1.8%;
+	margin-left: 10px;
+
+}
+
+h1 {
+	margin: auto;
+	font-family: 'Luckiest Guy', cursive;
+	color: white;
+	text-shadow: 4px 4px 4px 4px;
+	font-size: 60px;
+	margin-left: 29%;
+}
+
+a {
+	text-decoration: none;
+	text-decoration-line: none;
+	color: white;
+}
+
+
+.space {
+	margin-top: 10px;
+}
+
+#opmaak {
+	height: 400px;
+	width: 600px;
+	background-color: white;
+	margin: 0 auto;
+	font-family: arial;
+}
+
+h2 {
+	padding-left: 10px;
+	margin-top: 0;
+	padding-top: 20px;
+}
+
+td {
+	font-family: arial;
+	padding-left: 10px;
+	padding-top: 12px;
+}
+
+p {
+	font-family: arial;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+footer {
+	height: 40px;
+	background-color: #535245;
+	width: 600px;
+	margin: 0 auto;
+}
+
+#footer-text {
+	margin: auto;
+	font-family: arial;
+	color: white;
+	padding-left: 20%;
+	padding-top: 2%;
+}
